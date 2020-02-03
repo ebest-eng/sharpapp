@@ -13,6 +13,12 @@
             <setting name="lastPath" serializeAs="String">
                 <value />
             </setting>
+            <setting name="lastCrash" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="lastCrashView" serializeAs="String">
+                <value>0</value>
+            </setting>
         </Sharp.Ui.Properties.Settings>
     </userSettings>
 </configuration>
